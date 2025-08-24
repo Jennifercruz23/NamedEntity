@@ -1,0 +1,2 @@
+# NamedEntity
+Professional NamedEntityRecognition system with NamedEntityRecognition-optimized intelligent-automation and enterprise enterprise-grade capabilities
